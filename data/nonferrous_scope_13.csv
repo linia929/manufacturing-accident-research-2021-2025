@@ -1,0 +1,14 @@
+﻿case_id,observed_process,scope_group,finding,ISIC_scope_note,official_url
+N02,铜带精轧、酸洗与收卷包纸,加工,加工明确；不应称事故工序为冶炼,2420为候选，须按企业主要活动确定,https://www.nlx.gov.cn/openness/grassroots/6603411/33381751.html
+N04,铝合金型材制造单位内废铝压块故障处理,制造配套/回收压块,不能证明狭义冶炼；废铝回流生产的联系需补充,不得仅按打包动作认定2420；独立资源回收另行区分,https://www.cqqj.gov.cn/zwgk_159/fdzdgknr/yjgl/zhsgdcpg/dcbg/202604/t20260424_15633764.html
+N05,湿法炼锌单位内吊运氧化锌原料,冶炼配套,报告明确湿法炼锌及锌锭产品,2420候选,https://www.li-xian.gov.cn/zwgk/public/6616363/3428081691.html
+N07,铜管精整及设备区域风机清理,加工配套,经营范围与经过明确加工，不是冶炼任务,2420候选,https://www.pudong.gov.cn/019012011/20260113/820255/48a54306c43c412f98643697848584c5.pdf
+N08,铝棒加热、挤压、调直、切割后的冷床传动,加工,挤压加工明确，不是把矿石炼成金属,2420候选,https://www.szgm.gov.cn/attachment/1/1421/1421335/10803134.pdf
+N09,电解铝单位铸造车间行车作业,冶炼/铸造配套,企业有电解铝产能，发生工序为铸造吊运,企业2420与独立铸造2432需区分,https://wenchuan.gov.cn/wcxrmzf/c100089/202602/71ada73e5a744f779095dafdcd07ea02.shtml
+N10,铅冶炼厂在役熔炼车间烟管更换,冶炼厂检维修,纳入生产场所维护；承包商行业另记,生产宿主与承包商不得混为同一企业行业,https://www.hnchangning.gov.cn/zwgk/szfbmxxgkml/yjglj/tzgg/20220826/i2778768.html
+N12,铝液熔铸与深井铸造圆铸锭,熔铸,熔化/铸造不等于狭义矿石冶炼,2420/2432按产物和单位主要活动区分,https://www.fuqing.gov.cn/xjwz/zwgk/zfxxgkzdgz/aqjg/zwxx/202411/t20241122_4930675.htm
+N15,有色金属合金制造单位设备检修清包,合金制造配套,经营范围不足以唯一证明实际冶炼工序,暂不赋正式企业ISIC细码,https://www.xwq.gov.cn/xwzmqq/slsynew/ywdt/tzgg/2026033116361875761/index.html
+N16,中间合金块表面喷砂,表面处理,直接工序不是冶炼，需与合金制造单位联系,独立服务与制造单位辅助工序分开,https://yjj.baoji.gov.cn/col13110/col13113/col16955/202410/P020241228351664193114.pdf
+N22,铝业熔铸厂天车故障后岗位通行,熔铸配套,现场为熔铸单位；动作是通行不是冶炼,企业主要活动另行对应,https://cqjlp.gov.cn/bmjz/qzfbm_97119/qyjj_97729/zwgk_97124/fdzdgknr_97126/yjgl/ydqk/202606/t20260602_15720644.html
+N23,含铜铅银废料入还原炉熔炼，产出冰铜/粗铅,再生冶炼,原报告明确行业类别铅锌冶炼，不能因环保公司名称排除,2420候选；与单纯废物处理区分,https://www.xialuqu.gov.cn/zwgk/zfxxgkml/qzbmzsjg/qyjglj/fdzdgknr/aqsc/202604/t20260410_1319844.html
+N24,冶炼车间废水中和槽疏通救援,冶炼配套处理,依据既有报告记录；不是人员直接操作冶炼炉,厂内辅助处理与独立废水处理企业区分,https://www.baiyinqu.gov.cn/XZJDBMDW/bmdw/byqyjglj/fdzdgknr/aqsc/art/2024/art_6d23065e646143e39316e97f5f090162.html

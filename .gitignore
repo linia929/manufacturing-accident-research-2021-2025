@@ -1,0 +1,12 @@
+*.pdf
+*.docx
+*.xlsx
+*.zip
+*.png
+*.jpg
+*.log
+.env*
+__pycache__/
+内部证据*/
+source_texts/
+scan_checks/

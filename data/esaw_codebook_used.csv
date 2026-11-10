@@ -1,0 +1,19 @@
+﻿code,label_zh_research_gloss,precision,source,reference_section
+00,资料不能支持唯一接触判定,不能唯一判定,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+12,直接电接触,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+13,热物、火焰或高温环境接触,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+15,经呼吸道吸入有害物,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+21,液体淹溺,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+22,固体掩埋窒息,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+23,气体环境等阻断氧供,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+31,人体垂直运动撞击,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+32,人体水平运动撞固定物,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+40,运动物击中（组级）,组级,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+41,飞射或猛然冲开物件击中,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+42,下落物击中,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+44,运行或滚动物击中,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+60,夹陷、压挤（组级）,组级,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+61,陷入运动机械或物体中,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+62,压在物体下方,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+63,两物间水平夹挤,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines
+64,肢体或手指被撕脱、切断,细分,https://ec.europa.eu/eurostat/documents/3859598/5926181/KS-RA-12-102-EN.PDF,5.2.6; Annex I contact list; Annex II contact guidelines

@@ -1,0 +1,2 @@
+# Preserve exact bytes so SHA256 checks also pass after clone.
+* -text
